@@ -25,15 +25,14 @@ More projects coming soon!
 ## 🛠 Tech Stack
 
 **Tools & Languages:**  
-Power BI • SQL • Excel • Python (basics) • DAX
+Power BI • SQL • Excel • Python • ETL (Power Query) • DAX
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/your‑link  
-Email: your.email@example.com  
-Portfolio: https://your‑portfolio.site
+Email: ahmedwafi@outlook.de  
+Portfolio: ahmed-wafi.github.io 
 
 
 <!---
