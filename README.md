@@ -1,3 +1,7 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=flat)
+![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=flat)
+![DAX](https://img.shields.io/badge/DAX-%23FFCA28.svg?style=flat)
+
 # 👋 Hi, I’m Ahmed Wafi
 
 I’m a Data Analyst passionate about turning real‑world data into actionable insights with Power BI, SQL, and storytelling dashboards. I build analytical solutions that help teams make better decisions — not just prettier visuals.
